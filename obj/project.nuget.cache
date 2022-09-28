@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GChJ3PVUxgtp+/suC2cXBStpmmPJBcF1XasfeKAjBIv1y7pMuY/3Fjq7ARvycIjpmWVc8WHa3cfU+VoX/Y1TCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wfurn\\source\\repos\\fibonaci\\fibonaci.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wfurn\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

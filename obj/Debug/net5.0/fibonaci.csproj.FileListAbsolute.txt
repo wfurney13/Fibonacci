@@ -1,0 +1,16 @@
+C:\Users\wfurn\source\repos\fibonaci\obj\Debug\net5.0\fibonaci.csproj.AssemblyReference.cache
+C:\Users\wfurn\source\repos\fibonaci\obj\Debug\net5.0\fibonaci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wfurn\source\repos\fibonaci\obj\Debug\net5.0\fibonaci.AssemblyInfoInputs.cache
+C:\Users\wfurn\source\repos\fibonaci\obj\Debug\net5.0\fibonaci.AssemblyInfo.cs
+C:\Users\wfurn\source\repos\fibonaci\obj\Debug\net5.0\fibonaci.csproj.CoreCompileInputs.cache
+C:\Users\wfurn\source\repos\fibonaci\bin\Debug\net5.0\fibonaci.exe
+C:\Users\wfurn\source\repos\fibonaci\bin\Debug\net5.0\fibonaci.deps.json
+C:\Users\wfurn\source\repos\fibonaci\bin\Debug\net5.0\fibonaci.runtimeconfig.json
+C:\Users\wfurn\source\repos\fibonaci\bin\Debug\net5.0\fibonaci.runtimeconfig.dev.json
+C:\Users\wfurn\source\repos\fibonaci\bin\Debug\net5.0\fibonaci.dll
+C:\Users\wfurn\source\repos\fibonaci\bin\Debug\net5.0\fibonaci.pdb
+C:\Users\wfurn\source\repos\fibonaci\obj\Debug\net5.0\fibonaci.dll
+C:\Users\wfurn\source\repos\fibonaci\obj\Debug\net5.0\refint\fibonaci.dll
+C:\Users\wfurn\source\repos\fibonaci\obj\Debug\net5.0\fibonaci.pdb
+C:\Users\wfurn\source\repos\fibonaci\obj\Debug\net5.0\fibonaci.genruntimeconfig.cache
+C:\Users\wfurn\source\repos\fibonaci\obj\Debug\net5.0\ref\fibonaci.dll
